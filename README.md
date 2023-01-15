@@ -12,11 +12,11 @@
   Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+   I'm currently studying for a Bachelor's degree in University of Prince Edward Island Majoring in Computer Scienc
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+   I love Writing code, Hardware and learning anything about them 😊
   <br>
-  📚 I’m currently focusing on Data Science 
+  I’m currently focusing on Data Science and Android
   <br>
   📫 How to reach me 👇
 </p>
